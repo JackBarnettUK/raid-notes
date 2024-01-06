@@ -28,7 +28,6 @@
 	- https://assets.hardstuck.gg/uploads/Boiling-Aether-Audio.mp3?_=2
 ## Watchknights' Attacks
 - No conditions with any attacks, but high strike damage
-- 
 ### <mark style="background: #FF5582A6;">Vermillion</mark>
 #### Dual Horizon
 **Known as:** In or Out
